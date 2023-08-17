@@ -421,18 +421,18 @@ exploited by a malicious actuator.​
 <table>
     <tr>
         <td>
-            <a href="https://ics-cert.us-cert.gov/alerts" target="_blank">ICS-CERT Alerts</a>
+            <a href="https://www.cisa.gov/cybersecurity-advisories/all.xml" target="_blank">CISA Alerts & Advisories</a>
         </td>
         <td>
-            The ICS-CERT Alert feed is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.
+            The CISA Alert & Advisories feed is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.
         </td> 
     </tr>
     <tr>
         <td>
-            <a href="https://ics-cert.us-cert.gov/xml/rss.xml" target="_blank">ICS-CERT RSS Feed</a>
+            <a href="www.cisa.gov/cybersecurity-advisories/ics-advisories.xml" target="_blank">CISA ICS Advisories RSS Feed</a>
         </td>
         <td>
-            The RSS feed by the United States ICS-CERT lists news and newly released vulnerability advisories.
+            The RSS feed by the United States Critical Infrastructure Security Agency (CISA) lists news and newly released vulnerability advisories.
         </td> 
     </tr>
     <tr>
