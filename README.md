@@ -429,7 +429,7 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="www.cisa.gov/cybersecurity-advisories/ics-advisories.xml" target="_blank">CISA ICS Advisories RSS Feed</a>
+            <a href="https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml" target="_blank">CISA ICS Advisories RSS Feed</a>
         </td>
         <td>
             The RSS feed by the United States Critical Infrastructure Security Agency (CISA) lists news and newly released vulnerability advisories.
